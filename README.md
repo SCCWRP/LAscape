@@ -1,3 +1,3 @@
 # README
 
-Materials for SCAPE: stream classification and priority explorer
+Materials for Los Angeles SCAPE: stream classification and priority explorer
