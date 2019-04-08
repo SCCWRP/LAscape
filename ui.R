@@ -37,9 +37,6 @@ shinyUI(fluidPage(
              img(src = "sccwrp_logo.jpg", height = '120px', align = 'left', style = "margin-right: 20px; ")
            ),
            
-           a(href = 'http://sgrrmp.org/', target = '_blank',
-             img(src = "SGRRMP Logo.png", height = '120px', align = 'left', style = "margin-right: 25px;")
-           ),
            
            a(href = 'https://www.waterboards.ca.gov/water_issues/programs/swamp/', target = '_blank', 
              img(src = "SWAMP_Logo_RGB.JPG", height= '120px', align = 'left', style = "margin-right: 20px;")
